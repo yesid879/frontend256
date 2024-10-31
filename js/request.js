@@ -1,5 +1,5 @@
 //const url = 'http://localhost:7000/api/';
-const url = 'https://backend256.onrender.com/api/';
+const url = 'https://backend256.onrender.com/';
 
 function sendRequest(endPoint, method, data){
 let request = new XMLHttpRequest();
